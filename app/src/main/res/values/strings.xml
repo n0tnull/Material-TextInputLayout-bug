@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TextFieldBug</string>
+    <string name="end_icon_not_working">End icon IS VISIBLE at start</string>
+    <string name="end_icon_working">End icon is NOT VISIBLE at start</string>
+</resources>
